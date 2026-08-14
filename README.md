@@ -1,4 +1,4 @@
-# Product Filtering System
+# Product Filtering  System
 
 An oils/grocery product catalog built with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools. Products are loaded from a local JSON file and can be searched, filtered by category, and sorted by price, all updating instantly without a page reload.
 
