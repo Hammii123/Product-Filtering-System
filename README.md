@@ -23,9 +23,9 @@ An oils/grocery product catalog built with vanilla HTML, CSS, and JavaScript —
 2. Serve the folder with a local server, e.g. the VS Code "Live Server" extension (right-click `index.html` → "Open with Live Server")
 
 ```bash
-git clone https://github.com/your-username/product-filtering-system.git
+git clone https://https://github.com/Hammii123/Product-Filtering-System.git
 cd product-filtering-system
-```
+``
 
 ## Project Structure
 
